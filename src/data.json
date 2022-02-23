@@ -1,0 +1,223 @@
+{
+  "Home": {
+    "title": "Túrák",
+    "subtitle": "Gyalog, kerékpárral vagy vízen szeretnéd felfedezni a tájat?",
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod sem eu arcu ullamcorper feugiat. Fusce vehicula ex bibendum, imperdiet urna eget, bibendum libero. Ut non elit vitae quam rhoncus tincidunt. Donec cursus faucibus felis, vel molestie lorem tincidunt non. Pellentesque pretium urna mi, vel porttitor nisl hendrerit a. Aliquam erat volutpat. Integer in convallis enim. Nunc varius, lorem sed rutrum feugiat, magna eros placerat ante, suscipit venenatis felis libero ornare ex. Duis fringilla mi vitae tortor scelerisque, vitae pellentesque tortor tempor. Integer mauris diam, malesuada eget magna a, blandit tincidunt ipsum",
+    "carouselData": [
+      {
+        "image": "https://i.ibb.co/NCDpks3/c2-min.jpg",
+        "caption": "Mont Blanc",
+        "description": "1. picture"
+      },
+      {
+        "image": "https://i.ibb.co/R6rYg1L/24-min.jpg",
+        "caption": "Zuljana",
+        "description": "Description Here"
+      },
+      {
+        "image": "https://i.ibb.co/h9fcDZy/c1-min.jpg",
+        "caption": "Mont Blanc",
+        "description": "Description Here"
+      }
+    ]
+  },
+  "About": {
+    "paragraph": "",
+    "Why1": [
+      "több mint 6000 fős nappali és esti tagozatos tanuló",
+      "évente 1000 főt elérő felnőttképzési tanfolyam",
+      "közel 700 dolgozó, 9 iskola és kollégium",
+      "közel 47 ezer négyzetméter oktatási terület"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "category": "see",
+      "smallImage": "https://i.ibb.co/jw0b8d7/24-min.jpg",
+      "largeImage": "https://i.ibb.co/R6rYg1L/24-min.jpg"
+    },
+    {
+      "category": "see",
+      "smallImage": "https://i.ibb.co/F0y7nFY/23-min.jpg",
+      "largeImage": "https://i.ibb.co/rczyvVp/23-min.jpg"
+    },
+    {
+      "category": "mountain",
+      "smallImage": "https://i.ibb.co/CbVb142/19-min.jpg",
+      "largeImage": "https://i.ibb.co/m9h9Dd8/19-min.jpg"
+    },
+    {
+      "category": "mountain",
+      "smallImage": "https://i.ibb.co/vxBtrj4/18-min.jpg",
+      "largeImage": "https://i.ibb.co/qMnZ4rY/18-min.jpg"
+    },
+    {
+      "category": "mountain",
+      "smallImage": "https://i.ibb.co/r0wRgHQ/17-min.jpg",
+      "largeImage": "https://i.ibb.co/MSCxb7g/17-min.jpg"
+    },
+    {
+      "category": "mountain",
+      "smallImage": "https://i.ibb.co/vqYhZQH/c1-min.jpg",
+      "largeImage": "https://i.ibb.co/h9fcDZy/c1-min.jpg"
+    },
+    {
+      "category": "mountain",
+      "smallImage": "https://i.ibb.co/CM4CQby/2-min.jpg",
+      "largeImage": "https://i.ibb.co/SdHYBtg/2-min.jpg"
+    },
+    {
+      "category": "mountain",
+      "smallImage": "https://i.ibb.co/zZ3BDGF/1-min.jpg",
+      "largeImage": "https://i.ibb.co/Pg2P0wM/1-min.jpg"
+    },
+    {
+      "category": "mountain",
+      "smallImage": "https://i.ibb.co/qgCWg3b/c3-min.jpg",
+      "largeImage": "https://i.ibb.co/T01b0xz/c3-min.jpg"
+    },
+    {
+      "category": "mountain",
+      "smallImage": "https://i.ibb.co/V9nDhtN/c2-min.jpg",
+      "largeImage": "https://i.ibb.co/NCDpks3/c2-min.jpg"
+    },
+    {
+      "category": "mountain",
+      "smallImage": "https://i.ibb.co/YWCHsrk/16-min.jpg",
+      "largeImage": "https://i.ibb.co/LPFV7Gt/16-min.jpg"
+    },
+    {
+      "category": "mountain",
+      "smallImage": "https://i.ibb.co/TwGT1yL/15-min.jpg",
+      "largeImage": "https://i.ibb.co/K5gGDnw/15-min.jpg"
+    },
+    {
+      "category": "mountain",
+      "smallImage": "https://i.ibb.co/P582SLg/14-min.jpg",
+      "largeImage": "https://i.ibb.co/D7nBqJQ/14-min.jpg"
+    },
+    {
+      "category": "mountain",
+      "smallImage": "https://i.ibb.co/yFqbqbQ/13-min.jpg",
+      "largeImage": "https://i.ibb.co/60FfFfW/13-min.jpg"
+    },
+    {
+      "category": "mountain",
+      "smallImage": "https://i.ibb.co/MBMhmNc/12-min.jpg",
+      "largeImage": "https://i.ibb.co/xFJsN51/12-min.jpg"
+    },
+    {
+      "category": "mountain",
+      "smallImage": "https://i.ibb.co/g7PTjhd/11-min.jpg",
+      "largeImage": "https://i.ibb.co/CtM71D6/11-min.jpg"
+    },
+    {
+      "category": "mountain",
+      "smallImage": "https://i.ibb.co/q79M5kv/10-min.jpg",
+      "largeImage": "https://i.ibb.co/hLHRfDS/10-min.jpg"
+    },
+    {
+      "category": "mountain",
+      "smallImage": "https://i.ibb.co/dJ688q0/9-min.jpg",
+      "largeImage": "https://i.ibb.co/QjnyyRF/9-min.jpg"
+    },
+    {
+      "category": "mountain",
+      "smallImage": "https://i.ibb.co/mGMDXB6/8-min.jpg",
+      "largeImage": "https://i.ibb.co/JKMByd5/8-min.jpg"
+    },
+    {
+      "category": "mountain",
+      "smallImage": "https://i.ibb.co/N9xGqWB/7-min.jpg",
+      "largeImage": "https://i.ibb.co/qNB28mQ/7-min.jpg"
+    },
+    {
+      "category": "mountain",
+      "smallImage": "https://i.ibb.co/kDn4h1t/6-min.jpg",
+      "largeImage": "https://i.ibb.co/mys9H83/6-min.jpg"
+    },
+    {
+      "category": "mountain",
+      "smallImage": "https://i.ibb.co/HKFgwPn/5-min.jpg",
+      "largeImage": "https://i.ibb.co/j8640wg/5-min.jpg"
+    },
+    {
+      "category": "mountain",
+      "smallImage": "https://i.ibb.co/pbPh2rh/4-min.jpg",
+      "largeImage": "https://i.ibb.co/HB2h7ph/4-min.jpg"
+    },
+    {
+      "category": "mountain",
+      "smallImage": "https://i.ibb.co/N7dWGV8/3-min.jpg",
+      "largeImage": "https://i.ibb.co/SJ4VZsh/3-min.jpg"
+    }
+  ],
+  "Products": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Contact": {
+    "address": "6000 Kecskemét ",
+    "phone": "06 30 456 1234",
+    "email": "info@web.hu",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Offers": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
