@@ -8,7 +8,7 @@ export const About = () => {
 	return(
 
 		<div className="about">
-			home page...
+			home page...text
 		</div>
 	);
 }
