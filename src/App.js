@@ -20,7 +20,7 @@ function App() {
       <BrowserRouter>
         <MyNavbar startLoading={() => ref.current.continuousStart()} />
           <Routes>
-            <Route path='/' element={<Home stopLoading={() => ref.current.complete()} />} />
+            <Route path='/home' element={<Home stopLoading={() => ref.current.complete()} />} />
             <Route path='/about' element={<About />} />
             <Route path='/offers' element={<Offers />} />
             <Route path='/gallery' element={<Gallery />} />
